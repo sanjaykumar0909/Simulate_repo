@@ -2,3 +2,4 @@ line one modified by developer1.
 line two added by developer1.
 line added in `new-branch2`
 in `new-branch2` from remote repo
+mod2 new-branch2 local repo

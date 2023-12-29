@@ -3,3 +3,4 @@ line two added by developer1.
 line added in `new-branch2`
 in `new-branch2` from remote repo
 reverted and modified in local repo
+line 6 local repo
